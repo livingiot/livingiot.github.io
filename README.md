@@ -1,4 +1,2 @@
-# livingiot.github.io
-R&amp;D &amp; Consulting Initiative
-
+# livingiot.com
 R&amp;D &amp; Consulting Initiative
